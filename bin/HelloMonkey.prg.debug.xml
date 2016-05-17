@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="10" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="15" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="27" pc="268435522" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="28" pc="268435529" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="29" pc="268435546" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="30" pc="268435556" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="31" pc="268435581" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="32" pc="268435592" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="35" pc="268435608" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="36" pc="268435640" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="37" pc="268435647" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="40" pc="268435668" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="43" pc="268435733" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="45" pc="268435757" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyView.mc" lineNum="48" pc="268435777" symbol="onUpdate"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyBackground.mc" lineNum="8" pc="268435809" symbol="initialize"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyBackground.mc" lineNum="12" pc="268435830" symbol="initialize"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyBackground.mc" lineNum="17" pc="268435853" symbol="draw"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyBackground.mc" lineNum="18" pc="268435906" symbol="draw"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyApp.mc" lineNum="7" pc="268435921" symbol="initialize"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyApp.mc" lineNum="20" pc="268435948" symbol="getInitialView"/>
+<entry filename="/Users/matt_w/Documents/workspace/GarminGIT/HelloMonkey/source/HelloMonkeyApp.mc" lineNum="25" pc="268435988" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="28" pc="268436007" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268436032" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268436059" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268436075" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268436089" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268436186" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268436201" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268436253" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268436299" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="19" symbol="ColorDarkGray"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="22" symbol="ColorWhite"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8" object="true" symbol="HelloMonkeyView"/>
+<entry field="true" id="14" symbol="ColorLightGray"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="20" symbol="MilitaryFormatTitle"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="10" object="true" symbol="HelloMonkeyApp"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="21" symbol="ColorBlack"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="15" symbol="ColorBlue"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="16" symbol="ColorRed"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="17" symbol="ForegroundColorTitle"/>
+<entry field="true" id="18" symbol="BackgroundColorTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435797" name="view" stackId="6" startPc="268435522"/>
+<entry endPc="268435797" name="hours" stackId="4" startPc="268435522"/>
+<entry endPc="268435797" name="timeString" stackId="5" startPc="268435522"/>
+<entry endPc="268435797" name="clockTime" stackId="3" startPc="268435522"/>
+<entry endPc="268435797" name="timeFormat" stackId="2" startPc="268435522"/>
+<entry endPc="268435850" name="dictionary" stackId="1" startPc="268435809"/>
+<entry endPc="268436326" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="5" startPc="268436007"/>
+<entry endPc="268436326" name="rez_cmp_local_label_TimeLabel_font" stackId="3" startPc="268436007"/>
+<entry endPc="268436326" name="rez_cmp_local_custom_drawable_BOQV0SZDOETUMPTQC9QH" stackId="2" startPc="268436007"/>
+<entry endPc="268436326" name="rez_cmp_local_label_TimeLabel" stackId="4" startPc="268436007"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="HelloMonkeyView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="HelloMonkeyView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="HelloMonkeyView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="HelloMonkeyView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="HelloMonkeyView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="HelloMonkeyView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="HelloMonkeyView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="HelloMonkeyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="HelloMonkeyApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="HelloMonkeyApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="HelloMonkeyApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="HelloMonkeyApp">
+<documentation><![CDATA[<div class="description"> New app settings have been received so trigger a UI update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
